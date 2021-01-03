@@ -5,6 +5,7 @@ import java.util.List;
 
 public class LinkedListCollection {
     public static void main() {
+        // 유일한 변화
         List<String> list = new LinkedList<>();
 
         list.add( "Toy" );
