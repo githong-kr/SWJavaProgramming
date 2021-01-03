@@ -7,6 +7,13 @@ public class SWJavaProgramming {
     public static void main(String[] args) {
         // write your code here
 
+        // Chapter 23. 컬렉션 프레임워크 1
+        Ch23.run();
+    }
+}
+
+class Ch23 {
+    public static void run() {
         // 배열 기반 리스트 컬렉션 예제
         //ArrayListCollection.main();
 
@@ -15,6 +22,5 @@ public class SWJavaProgramming {
 
         // 반복자를 통한 리스트 순차 조회 예제
         IteratorCollection.main();
-
     }
 }
