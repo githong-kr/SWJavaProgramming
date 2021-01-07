@@ -9,6 +9,9 @@ public class Ch23 {
         //LinkedListCollection.main();
 
         // 반복자를 통한 리스트 순차 조회 예제
-        IteratorCollection.main();
+        //IteratorCollection.main();
+
+        // 리스트 컬렉션 프레임워크 인스턴스 생성과 동시에 초기화
+        AsListCollection.main();
     }
 }
