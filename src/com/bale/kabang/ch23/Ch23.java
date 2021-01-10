@@ -12,6 +12,15 @@ public class Ch23 {
         //IteratorCollection.main();
 
         // 리스트 컬렉션 프레임워크 인스턴스 생성과 동시에 초기화
-        AsListCollection.main();
+        //AsListCollection.main();
+
+        // HashSet의 특성 예제
+        //SetCollectionFeature.main();
+
+        // HashSet이 동일한 데이터로 판단하는 기준에 대한 예제
+        //HashSetEqualityOne.main();
+
+        // HashSet이 동일한 데이터로 판단하는 기준을 임의로 구현하는 예제
+        HashSetEqualityTwo.main();
     }
 }
